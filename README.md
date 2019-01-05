@@ -26,6 +26,6 @@ If not, please create a new issue with the following data, when you...
   - (Optional) Justification on why you think it should be implemented
 
 ### Related Links
-The Brass Knights Discord Server: https://discord.gg/P3PdnyP
-
-Patreon: https://www.patreon.com/bkrpg
+  - The Brass Knights RPG Server: https://discord.gg/u3GtTUe
+  - Patreon: https://www.patreon.com/bkrpg
+  - The Brass Knights Discord Server: https://discord.gg/P3PdnyP
